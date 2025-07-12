@@ -1,0 +1,20 @@
+{
+  "name": "2025_ecodation_frontend_fullstack2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eahmettekeli/FullstackFrontend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eahmettekeli/FullstackFrontend/issues"
+  },
+  "homepage": "https://github.com/eahmettekeli/FullstackFrontend#readme",
+  "description": ""
+}
